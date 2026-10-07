@@ -25,7 +25,7 @@ bun run test:coverage  # test + laporan coverage (threshold 100%)
 bun run build && bun run preview
 ```
 
-## Rute
+## Rutee
 
 | Rute | Halaman | Akses |
 | ---- | ------- | ----- |
@@ -35,3 +35,4 @@ bun run build && bun run preview
 | `/lost-founds/:id` | Detail laporan | Login |
 | `/users` | Daftar pengguna | Login |
 | `/profile` | Profil, foto, kata sandi | Login |
+
